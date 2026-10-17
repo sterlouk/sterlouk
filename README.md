@@ -44,3 +44,5 @@ Currently training in the **Google.org Cyber Route** cybersecurity program.
 ---
 
 🎓 Aristotle University of Thessaloniki · 💻 Python · Java · C/C++ · MATLAB · JavaScript · PHP
+
+📫 Reach me at **[sterlouk@ece.auth.gr](mailto:sterlouk@ece.auth.gr)**
